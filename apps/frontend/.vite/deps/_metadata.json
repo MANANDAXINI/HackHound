@@ -1,0 +1,67 @@
+{
+  "hash": "7d30364f",
+  "configHash": "1943cb0d",
+  "lockfileHash": "a9af4355",
+  "browserHash": "5174d7ac",
+  "optimized": {
+    "axios": {
+      "src": "../../../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "92ebe4b6",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "2686dc3e",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "c78e62a4",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "ce2d4ab3",
+      "needsInterop": false
+    },
+    "react-toastify": {
+      "src": "../../../../node_modules/react-toastify/dist/index.mjs",
+      "file": "react-toastify.js",
+      "fileHash": "76d9acd0",
+      "needsInterop": false
+    },
+    "recharts": {
+      "src": "../../../../node_modules/recharts/es6/index.js",
+      "file": "recharts.js",
+      "fileHash": "1c8d135a",
+      "needsInterop": false
+    },
+    "zod": {
+      "src": "../../../../node_modules/zod/lib/index.mjs",
+      "file": "zod.js",
+      "fileHash": "f233a015",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-TWJRYSII": {
+      "file": "chunk-TWJRYSII.js"
+    },
+    "chunk-LNFQPJ2Y": {
+      "file": "chunk-LNFQPJ2Y.js"
+    },
+    "chunk-FL4LAU3B": {
+      "file": "chunk-FL4LAU3B.js"
+    },
+    "chunk-JY7ULKCQ": {
+      "file": "chunk-JY7ULKCQ.js"
+    },
+    "chunk-DC5AMYBS": {
+      "file": "chunk-DC5AMYBS.js"
+    }
+  }
+}
